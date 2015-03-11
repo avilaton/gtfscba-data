@@ -1,149 +1,149 @@
-"route_id","service_id","trip_id","trip_headsign","trip_short_name","direction_id","shape_id"
-"10",,"10.ida","Lasalle",,"0","10.ida"
-"10",,"10.reg","Ituzaingó",,"1","10.reg"
-"11",,"11.ida","Empalme",,"0","11.ida"
-"11",,"11.reg","Villa Allende Parque",,"1","11.reg"
-"12",,"12.ida","16 de Noviembre",,"0","12.ida"
-"12",,"12.reg","Ituzaingó",,"1","12.reg"
-"13",,"13.ida","Centro de Almaceneros",,"0","13.ida"
-"13",,"13.reg","Ciudad Universitaria",,"1","13.reg"
-"14",,"14.ida","Ampliación 1 de Mayo",,"0","14.ida"
-"14",,"14.reg","Policial",,"1","14.reg"
-"15",,"15.ida","Polo Sanitario",,"0","15.ida"
-"15",,"15.reg","Villa Allende Parque",,"1","15.reg"
-"16",,"16.ida","25 de Mayo",,"0","16.ida"
-"16",,"16.reg","Ciudad Universitaria",,"1","16.reg"
-"17",,"17.ida","Ituzaingó",,"0","17.ida"
-"17",,"17.reg","16 de Noviembre",,"1","17.reg"
-"18",,"18.ida","Ciudad Universitaria",,"0","18.ida"
-"18",,"18.reg","Saldán",,"1","18.reg"
-"19",,"19.ida","Alto Hermoso",,"0","19.ida"
-"19",,"19.reg","Ciudad Universitaria",,"1","19.reg"
-"20",,"20.ida","Santa Cecilia",,"0","20.ida"
-"20",,"20.reg","Cerveceros",,"1","20.reg"
-"21",,"21.ida","Los Boulevares",,"0","21.ida"
-"21",,"21.reg","Cno. San Carlos Km 4.5",,"1","21.reg"
-"22",,"22.ida","Marqués de Sobremonte",,"0","22.ida"
-"22",,"22.reg","Artigas",,"1","22.reg"
-"23",,"23.ida","Ampliación San Pablo",,"0","23.ida"
-"23",,"23.reg","Ampliación Poeta Lugones",,"1","23.reg"
-"24",,"24.ida","Inaudi",,"0","24.ida"
-"24",,"24.reg","Marqués de Sobremonte",,"1","24.reg"
-"25",,"25.ida","Aeropuerto",,"0","25.ida"
-"25",,"25.reg","Cno. San Carlos Km 4.5",,"1","25.reg"
-"26",,"26.ida","Los Boulevares",,"0","26.ida"
-"26",,"26.reg","Artigas",,"1","26.reg"
-"27",,"27.ida","Sol Naciente",,"0","27.ida"
-"27",,"27.reg","Ampliación Cerveceros",,"1","27.reg"
-"28",,"28.ida","Libertad III",,"0","28.ida"
-"28",,"28.reg","Marqués de Sobremonte",,"1","28.reg"
-"29",,"29.ida","Rivadavia",,"0","29.ida"
-"29",,"29.reg","Bower",,"1","29.reg"
-"30",,"30.ida","J.Luis Cabrera",,"0","30.ida"
-"30",,"30.reg","Parque Futura",,"1","30.reg"
-"31",,"31.ida","Polo Sanitario",,"0","31.ida"
-"31",,"31.reg","Santa Isabel 1 Secc.",,"1","31.reg"
-"32",,"32.ida","Villa Ballester",,"0","32.ida"
-"32",,"32.reg","Santa Isabel 2 Secc.",,"1","32.reg"
-"33",,"33.ida","Área Central",,"0","33.ida"
-"33",,"33.reg","Santa Isabel 1 Secc.",,"1","33.reg"
-"34",,"34.ida","Área Central",,"0","34.ida"
-"34",,"34.reg","Universidad Cátolica",,"1","34.reg"
-"35",,"35.ida","Los Paraísos",,"0","35.ida"
-"35",,"35.reg","Cabildo",,"1","35.reg"
-"36",,"36.ida","J.Newbery",,"0","36.ida"
-"36",,"36.reg","Villa Libertador",,"1","36.reg"
-"40",,"40.ida","Pque. Liceo",,"0","40.ida"
-"40",,"40.reg","20 de Junio",,"1","40.reg"
-"41",,"41.ida","Ciudad Universitaria",,"0","41.ida"
-"41",,"41.reg","Guiñazú",,"1","41.reg"
-"42",,"42.ida","Parque República",,"0","42.ida"
-"42",,"42.reg","Gral. Mosconi",,"1","42.reg"
-"43",,"43.ida","Polo Sanitario",,"0","43.ida"
-"43",,"43.reg","20 de Junio",,"1","43.reg"
-"44",,"44.ida","Villa Unión",,"0","44.ida"
-"44",,"44.reg","M.T. de Alvear",,"1","44.reg"
-"50",,"50.ida","Villa Libertador",,"0","50.ida"
-"50",,"50.reg","Gral. Mosconi",,"1","50.reg"
-"500",,"500.ida","Sentido Horario",,"0","500.ida"
-"501",,"501.ida","Sentido Antihorario",,"0","501.ida"
-"51",,"51.ida","Área Central",,"0","51.ida"
-"51",,"51.reg","Villa Angelelli",,"1","51.reg"
-"52",,"52.ida","Cabildo",,"0","52.ida"
-"52",,"52.reg","Gral. Mosconi",,"1","52.reg"
-"53",,"53.ida","Área Central",,"0","53.ida"
-"53",,"53.reg","Cabildo",,"1","53.reg"
-"54",,"54.ida","Polo Sanitario",,"0","54.ida"
-"54",,"54.reg","Villa Retiro",,"1","54.reg"
-"55",,"55.ida","Ciudad Universitaria",,"0","55.ida"
-"55",,"55.reg","Villa Retiro",,"1","55.reg"
-"60",,"60.ida","Estación Flores",,"0","60.ida"
-"60",,"60.reg","Patricios",,"1","60.reg"
-"600",,"600.ida","Sentido Horario",,"0","600.ida"
-"601",,"601.ida","Sentido Antihorario",,"0","601.ida"
-"61",,"61.ida","SMATA",,"0","61.ida"
-"61",,"61.reg","Yapeyú",,"1","61.reg"
-"62",,"62.ida","Residencial San Roque",,"0","62.ida"
-"62",,"62.reg","Mercado Frutihortícola",,"1","62.reg"
-"63",,"63.ida","René Favaloro",,"0","63.ida"
-"63",,"63.reg","Patricios Norte",,"1","63.reg"
-"64",,"64.ida","Matienzo",,"0","64.ida"
-"64",,"64.reg","Yapeyú",,"1","64.reg"
-"65",,"65.ida","Residencial San Roque",,"0","65.ida"
-"65",,"65.reg","Patricios Oeste",,"1","65.reg"
-"66",,"66.ida","Arenales",,"0","66.ida"
-"66",,"66.reg","Ciudad Universitaria",,"1","66.reg"
-"67",,"67.ida","Escuela de Aviación",,"0","67.ida"
-"67",,"67.reg","Ciudad Universitaria",,"1","67.reg"
-"68",,"68.ida","Área Central",,"0","68.ida"
-"68",,"68.reg","La Floresta",,"1","68.reg"
-"70",,"70.ida","Don Bosco",,"0","70.ida"
-"70",,"70.reg","Miralta",,"1","70.reg"
-"71",,"71.ida","Maldonado",,"0","71.ida"
-"71",,"71.reg","Playa E. de Feriar",,"1","71.reg"
-"72",,"72.ida","Colonia Lola",,"0","72.ida"
-"72",,"72.reg","Playa E. de Feriar",,"1","72.reg"
-"73",,"73.ida","Villa Boedo",,"0","73.ida"
-"73",,"73.reg","Valle Escondido",,"1","73.reg"
-"74",,"74.ida","Villa Urquiza",,"0","74.ida"
-"74",,"74.reg","Colonia Lola",,"1","74.reg"
-"75",,"75.ida","Villa Belgrano",,"0","75.ida"
-"75",,"75.reg","Ciudad Universitaria",,"1","75.reg"
-"80",,"80.ida","Cerro de las Rosas",,"0","80.ida"
-"80",,"80.reg","Coronel Olmedo",,"1","80.reg"
-"81",,"81.ida","Área Central (por el Quebracho)",,"0","81.ida"
-"81",,"81.reg","Coronel Olmedo",,"1","81.reg"
-"82",,"82.ida","Lasalle",,"0","82.ida"
-"82",,"82.reg","Amp. Ferreyra",,"1","82.reg"
-"83",,"83.ida","CPC Argüello",,"0","83.ida"
-"83",,"83.reg","J.I.Díaz 5 Secc.",,"1","83.reg"
-"84",,"84.ida","Cerro de las Rosas",,"0","84.ida"
-"84",,"84.reg","Las Lilas",,"1","84.reg"
-"b20",,"b20.ida","Alta Córdoba",,"0","b20.ida"
-"b20",,"b20.reg","Marqués de Sobremonte",,"1","b20.reg"
-"b30",,"b30.ida","Liceo 3 Secc.",,"0","b30.ida"
-"b30",,"b30.reg","Retiro",,"1","b30.reg"
-"b60",,"b60.ida","Yofre Norte",,"0","b60.ida"
-"b60",,"b60.reg","Villa Esquiú",,"1","b60.reg"
-"b61",,"b61.ida","Pque. República",,"0","b61.ida"
-"b61",,"b61.reg","Sacchi",,"1","b61.reg"
-"b70",,"b70.ida","CPC Centro América-Hospital Infantil",,"0","b70.ida"
-"b70",,"b70.reg","CPC Empalme",,"1","b70.reg"
-"b80",,"b80.ida","Arco de Córdoba",,"0","b80.ida"
-"b80",,"b80.reg","Ituzaingó",,"1","b80.reg"
-"d10",,"d10.ida","Ciudad Universitaria",,"0","d10.ida"
-"d10",,"d10.reg","Rincón Bonito",,"1","d10.reg"
-"d20",,"d20.ida","Aeropuerto-Univ. Siglo21",,"0","d20.ida"
-"d20",,"d20.reg","Cerveceros",,"1","d20.reg"
-"d30",,"d30.ida","Villa Angelelli",,"0","d30.ida"
-"d30",,"d30.reg","Colonia Los Pinos",,"1","d30.reg"
-"d50",,"d50.ida","Parque Horizonte",,"0","d50.ida"
-"d50",,"d50.reg","CPC Rancagua",,"1","d50.reg"
-"d80",,"d80.ida","Ciudad de las Artes",,"0","d80.ida"
-"d80",,"d80.reg","Cerro de las Rosas",,"1","d80.reg"
-"TA",,"TA.ida","Plaza de las Américas",,"0","TA.ida"
-"TA",,"TA.reg","Mariano Fragueiro",,"1","TA.reg"
-"TB",,"TB.ida","Pueyrredón",,"0","TB.ida"
-"TB",,"TB.reg","Alto Alberdi",,"1","TB.reg"
-"TC",,"TC.ida","San Vicente",,"0","TC.ida"
-"TC",,"TC.reg","Ameghino",,"1","TC.reg"
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,card_code,active
+33,50,,Ciudad Universitaria,,1,33,,False
+34,57,,Ciudad Universitaria,,1,34,,False
+36,53,,Playa E. de Feriar,,1,36,,False
+38,71,,Villa Angelelli,,0,38,,False
+39,60,,Lasalle,,0,39,,False
+43,51,,La Floresta,,1,43,,False
+45,33,,Villa Libertador,,0,45,,False
+46,60,,Amp. Ferreyra,,1,46,,False
+47,56,,Villa Urquiza,,0,47,,False
+48,35,,Sentido Antihorario,,0,48,,False
+50,65,,Villa Esquiú,,1,50,,False
+51,58,,Coronel Olmedo,,1,51,,False
+53,41,,Patricios,,1,53,,False
+54,52,,Don Bosco,,0,54,,False
+60,69,,Rincón Bonito,,1,60,,False
+62,71,,Colonia Los Pinos,,1,62,,False
+63,46,,René Favaloro,,0,63,,False
+65,61,,CPC Argüello,,0,65,,False
+66,64,,Liceo 3 Secc.,,0,66,,False
+67,40,,Ciudad Universitaria,,0,67,,False
+68,55,,Valle Escondido,,1,68,,False
+69,69,,Ciudad Universitaria,,0,69,,False
+71,33,,Gral. Mosconi,,1,71,,False
+73,43,,Sentido Antihorario,,0,73,,False
+75,34,,Sentido Horario,,0,75,,False
+76,47,,Yapeyú,,1,76,,False
+80,51,,Área Central,,0,80,,False
+81,50,,Escuela de Aviación,,0,81,,False
+82,59,,Coronel Olmedo,,1,82,,False
+83,55,,Villa Boedo,,0,83,,False
+86,76,,San Vicente,,0,86,,False
+87,54,,Colonia Lola,,0,87,,False
+88,40,,Villa Retiro,,1,88,,False
+89,37,,Cabildo,,0,89,,False
+91,66,,Sacchi,,1,91,,False
+92,41,,Estación Flores,,0,92,,False
+93,70,,Cerveceros,,1,93,,False
+96,72,,Parque Horizonte,,0,96,,False
+103,37,,Gral. Mosconi,,1,103,,False
+104,48,,Residencial San Roque,,0,104,,False
+106,39,,Villa Retiro,,1,106,,False
+107,72,,CPC Rancagua,,1,107,,False
+108,53,,Maldonado,,0,108,,False
+110,30,,Gral. Mosconi,,1,110,,False
+111,10,,Alto Hermoso,,0,111,,False
+112,73,,Ciudad de las Artes,,0,112,,False
+113,21,,Parque Futura,,1,113,,False
+114,74,,Mariano Fragueiro,,1,114,,False
+115,56,,Colonia Lola,,1,115,,False
+116,28,,20 de Junio,,1,116,,False
+117,38,,Área Central,,0,117,,False
+118,57,,Villa Belgrano,,0,118,,False
+119,14,,Ampliación San Pablo,,0,119,,False
+120,64,,Retiro,,1,120,,False
+121,6,,Villa Allende Parque,,1,121,,False
+122,12,,Cno. San Carlos Km 4.5,,1,122,,False
+123,3,,Ituzaingó,,1,123,,False
+124,29,,Ciudad Universitaria,,0,124,,False
+125,66,,Pque. República,,0,125,,False
+126,9,,Ciudad Universitaria,,0,126,,False
+127,32,,Villa Unión,,0,127,,False
+128,65,,Yofre Norte,,0,128,,False
+129,1,,Ituzaingó,,1,129,,False
+130,38,,Cabildo,,1,130,,False
+131,59,,Área Central (por el Quebracho),,0,131,,False
+132,67,,CPC Empalme,,1,132,,False
+133,2,,Villa Allende Parque,,1,133,,False
+134,44,,Yapeyú,,1,134,,False
+135,74,,Plaza de las Américas,,0,135,,False
+136,7,,25 de Mayo,,0,136,,False
+137,39,,Polo Sanitario,,0,137,,False
+138,52,,Miralta,,1,138,,False
+139,76,,Ameghino,,1,139,,False
+140,23,,Villa Ballester,,0,140,,False
+141,24,,Santa Isabel 1 Secc.,,1,141,,False
+142,68,,Ituzaingó,,1,142,,False
+143,19,,Libertad III,,0,143,,False
+144,63,,Alta Córdoba,,0,144,,False
+145,44,,SMATA,,0,145,,False
+146,49,,Ciudad Universitaria,,1,146,,False
+147,61,,J.I.Díaz 5 Secc.,,1,147,,False
+148,4,,Ciudad Universitaria,,1,148,,False
+2,26,,Los Paraísos,,0,2,,False
+4,13,,Marqués de Sobremonte,,0,4,,False
+9,13,,Artigas,,1,9,,False
+11,23,,Santa Isabel 2 Secc.,,1,11,,False
+12,31,,20 de Junio,,1,12,,False
+15,31,,Polo Sanitario,,0,15,,False
+17,9,,Saldán,,1,17,,False
+19,15,,Inaudi,,0,19,,False
+21,30,,Parque República,,0,21,,False
+22,24,,Área Central,,0,22,,False
+26,8,,Ituzaingó,,0,26,,False
+35,14,,Ampliación Poeta Lugones,,1,35,,False
+37,17,,Los Boulevares,,0,37,,False
+40,20,,Bower,,1,40,,False
+41,5,,Ampliación 1 de Mayo,,0,41,,False
+42,15,,Marqués de Sobremonte,,1,42,,False
+44,29,,Guiñazú,,1,44,,False
+49,28,,Pque. Liceo,,0,49,,False
+52,21,,J.Luis Cabrera,,0,52,,False
+55,10,,Ciudad Universitaria,,1,55,,False
+56,2,,Empalme,,0,56,,False
+57,7,,Ciudad Universitaria,,1,57,,False
+58,16,,Cno. San Carlos Km 4.5,,1,58,,False
+59,5,,Policial,,1,59,,False
+61,17,,Artigas,,1,61,,False
+64,18,,Ampliación Cerveceros,,1,64,,False
+70,8,,16 de Noviembre,,1,70,,False
+72,11,,Santa Cecilia,,0,72,,False
+74,12,,Los Boulevares,,0,74,,False
+77,1,,Lasalle,,0,77,,False
+78,18,,Sol Naciente,,0,78,,False
+79,25,,Universidad Cátolica,,1,79,,False
+84,4,,Centro de Almaceneros,,0,84,,False
+85,6,,Polo Sanitario,,0,85,,False
+90,22,,Santa Isabel 1 Secc.,,1,90,,False
+94,16,,Aeropuerto,,0,94,,False
+95,22,,Polo Sanitario,,0,95,,False
+97,19,,Marqués de Sobremonte,,1,97,,False
+98,26,,Cabildo,,1,98,,False
+99,27,,J.Newbery,,0,99,,False
+100,27,,Villa Libertador,,1,100,,False
+101,3,,16 de Noviembre,,0,101,,False
+102,11,,Cerveceros,,1,102,,False
+105,25,,Área Central,,0,105,,False
+109,20,,Rivadavia,,0,109,,False
+1,48,,Patricios Oeste,,1,1,,False
+3,46,,Patricios Norte,,1,3,,False
+5,45,,Residencial San Roque,,0,5,,False
+6,70,,Aeropuerto-Univ. Siglo21,,0,6,,False
+7,36,,Villa Angelelli,,1,7,,False
+8,62,,Las Lilas,,1,8,,False
+10,73,,Cerro de las Rosas,,1,10,,False
+13,36,,Área Central,,0,13,,False
+14,58,,Cerro de las Rosas,,0,14,,False
+16,68,,Arco de Córdoba,,0,16,,False
+18,62,,Cerro de las Rosas,,0,18,,False
+20,45,,Mercado Frutihortícola,,1,20,,False
+23,54,,Playa E. de Feriar,,1,23,,False
+24,75,,Alto Alberdi,,1,24,,False
+25,63,,Marqués de Sobremonte,,1,25,,False
+27,32,,M.T. de Alvear,,1,27,,False
+28,49,,Arenales,,0,28,,False
+29,75,,Pueyrredón,,0,29,,False
+30,67,,CPC Centro América-Hospital Infantil,,0,30,,False
+31,42,,Sentido Horario,,0,31,,False
+32,47,,Matienzo,,0,32,,False

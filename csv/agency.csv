@@ -1,6 +1,6 @@
-"agency_url","agency_name","agency_id","agency_timezone","agency_lang","agency_phone"
-"http://www.ccbasacif.com.ar","Ciudad de Córdoba","ccba","America/Argentina/Cordoba","es","+54 351 4644242"
-"http://www.coniferalsacif.com.ar","Coniferal","coniferal","America/Argentina/Cordoba","es","+54 351 4845552 "
-"http://www.ersaurbano.com/","Ersa","ersa","America/Argentina/Cordoba","es",""
-"http://www.autobusessantafe.com.ar/","Autobuses Santa Fe","asf","America/Argentina/Cordoba","es",""
-"http://www.tam-se.com.ar/","TAMSE Trolebuses","tamse","America/Argentina/Cordoba","es","+54 351 4784909"
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+ccba,Ciudad de Córdoba,http://www.ccbasacif.com.ar,America/Argentina/Cordoba,es,+54 351 4644242
+coniferal,Coniferal,http://www.coniferalsacif.com.ar,America/Argentina/Cordoba,es,+54 351 4845552 
+ersa,Ersa,http://www.ersaurbano.com/,America/Argentina/Cordoba,es,
+asf,Autobuses Santa Fe,http://www.autobusessantafe.com.ar/,America/Argentina/Cordoba,es,
+tamse,TAMSE Trolebuses,http://www.tam-se.com.ar/,America/Argentina/Cordoba,es,+54 351 4784909
