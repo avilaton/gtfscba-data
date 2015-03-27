@@ -267,6 +267,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 414,C0414,,"Publica de Zepa B, Frente Manzana 6",-31.38937,-64.10248,Publica de Zepa B,,Frente Manzana 6,
 415,C0415,,"Publica de Zepa B, Frente Manzana 2 ",-31.39019,-64.10295,Publica de Zepa B,,Frente Manzana 2 ,
 416,C0416,,"Publica de Zepa B, Frente Manzana 9 ",-31.38978,-64.10952,Publica de Zepa B,,Frente Manzana 9 ,
+1564,C1564,,Gauss 5500,-31.35909,-64.25189,Gauss,5500,Lagrange y Joule,
 417,C0417,,"Publica de Zepa B, Frente Manzana 7 ",-31.38964,-64.11074,Publica de Zepa B,,Frente Manzana 7 ,
 418,C0418,,"De la Semilleria, Frente Mercado",-31.39121,-64.11176,De la Semilleria,,Frente Mercado,
 419,C0419,,Alcaraz 6100,-31.39035,-64.11331,Alcaraz,6100,Frente Casilla,
@@ -939,7 +940,6 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 1560,C1560,,Laplace 5390,-31.36127,-64.24882,Laplace,5390,Jose Luis Lagrange y Dalembert,
 1561,C1561,,Laplace 5229,-31.36218,-64.25075,Laplace,5229,Dalembert y Olmos,
 1563,C1563,,Gauss 5291,-31.3614,-64.25283,Gauss,5291,Olmos y Dalembert,
-1564,C1564,,Gauss 5500,-31.35909,-64.25189,Gauss,5500,Lagrange y Joule,
 1565,C1565,,Gauss 5679,-31.35682,-64.25098,Gauss,5679,Gay Lussac y Mariotte,
 1566,C1566,,Gauss 5824,-31.35501,-64.25022,Gauss,5824,Blas Pascal y Avogadro,
 1567,C1567,,Gauss 5968,-31.3528,-64.249407,Gauss,5968,Avogadro y Martinolli,
@@ -1414,6 +1414,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 2874,C2874,,"Cumbres de Gaspar, La Carbonada",-31.4898596815,-64.0834060933,Cumbres de Gaspar,,La Carbonada,
 2875,C2875,,"Cumbres de Gaspar, La Carbonada",-31.489845107,-64.0862339067,Cumbres de Gaspar,,La Carbonada,
 2876,C2876,,"Cumbres de Gaspar, La Carbonada",-31.4899,-64.08625,Cumbres de Gaspar,,La Carbonada,
+3418,C3418,,Bajada de Piedras,-31.4017575831,-64.1061381019,Bajada de Piedras,,,
 2877,C2877,,"Cumbres de Gaspar, La Carbonada",-31.4899457441,-64.0862875509,Cumbres de Gaspar,,La Carbonada,
 2878,C2878,,"Cumbres de Gaspar, La Carbonada",-31.48994,-64.0838848981,Cumbres de Gaspar,,La Carbonada,
 2879,C2879,,"Cumbres de Gaspar, La Carbonada",-31.4899637232,-64.0791495337,Cumbres de Gaspar,,La Carbonada,
@@ -1479,6 +1480,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 3122,C3122,,Maestro Vidal 1678,-31.4283864066,-64.2297589239,Maestro Vidal,1678,Gomez Carrillo y Alberto Williams,
 3123,C3123,,Maestro Vidal 1830,-31.4303756186,-64.230284373,Maestro Vidal,1830,Pinedo y Buchardo,
 3124,C3124,,Alexander Fleming 2050,-31.433446,-64.235831,Alexander Fleming,2050,Aconcagua y Uritorco,
+3351,C3351,,"San Jeronimo, Esquina Avellaneda",-31.315243,-64.304277,San Jeronimo,,Esquina Avellaneda,
 3125,C3125,,Alexander Fleming 2350,-31.437107,-64.235833,Alexander Fleming,2350,Gabriela Mistral y Lagunilla,
 3126,C3126,,Alexander Fleming 2650,-31.439551,-64.23582,Alexander Fleming,2650,Octaviano Navarro y Antartida,
 3127,C3127,,Alexander Fleming 2950,-31.442561,-64.235801,Alexander Fleming,2950,Olivares y Los Pinos,
@@ -1542,7 +1544,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 3318,C3318,,"San Jeronimo, Esquina Avellaneda",-31.3152338341,-64.3044808479,San Jeronimo,,Esquina Avellaneda,
 3319,C3319,,"San Lorenzo, Esq. Eva Peron",-31.315792,-64.3069,San Lorenzo,,Esq. Eva Peron,
 3350,C3350,,"San Lorenzo, Esq. Eva Peron",-31.3160028134,-64.3068892712,San Lorenzo,,Esq. Eva Peron,
-3351,C3351,,"San Jeronimo, Esquina Avellaneda",-31.315243,-64.304277,San Jeronimo,,Esquina Avellaneda,
+3417,C3417,,Bajada de Piedras,-31.4022040557,-64.1225137288,Bajada de Piedras,,,
 3352,C3352,,San Jeronimo entre San Salvador y Jamaica,-31.3145518429,-64.300744881,San Jeronimo,,San Salvador y Jamaica,
 3353,C3353,,Cruz Alta entre San Marcos Sierra y BelleVille,-31.3132156571,-64.2969006257,Cruz Alta,,San Marcos Sierra y BelleVille,
 3354,C3354,,Cruz Alta entre Laborde y Arroyito,-31.3133003249,-64.2942471693,Cruz Alta,,Laborde y Arroyito,
@@ -1608,8 +1610,6 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 3414,C3414,,Bajada de Piedras,-31.4031808543,-64.1356470847,Bajada de Piedras,,,
 3415,C3415,,Bajada de Piedras,-31.4034020684,-64.132237,Bajada de Piedras,,,
 3416,C3416,,Bajada de Piedras,-31.4030018539,-64.1280979153,Bajada de Piedras,,,
-3417,C3417,,Bajada de Piedras,-31.4022040557,-64.1225137288,Bajada de Piedras,,,
-3418,C3418,,Bajada de Piedras,-31.4017575831,-64.1061381019,Bajada de Piedras,,,
 3419,C3419,,Bajada de Piedras,-31.4033440563,-64.089527627,Bajada de Piedras,,,
 3420,C3420,,Bajada de Piedras,-31.408596,-64.066812,Bajada de Piedras,,,
 3421,C3421,,Bajada de Piedras,-31.406289,-64.065557,Bajada de Piedras,,,
@@ -2464,6 +2464,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 4858,C4858,,Cno. San Carlos 9700,-31.5230698374,-64.1686155519,Cno. San Carlos,9700,,
 4859,C4859,,Cno. San Carlos,-31.5186846963,-64.1689320895,Cno. San Carlos,,,Canal Maestro
 4860,C4860,,Cno. San Carlos 9600,-31.5171339568,-64.168872913,Cno. San Carlos,9600,,
+4939,C4939,,Cno San Carlos 9900,-31.5250556933,-64.1686453193,Cno San Carlos,9900,,
 4861,C4861,,Cno. San Carlos 9400,-31.5147248552,-64.1689489111,Cno. San Carlos,9400,,Paso a Nivel
 4862,C4862,,Cno. San Carlos 8900,-31.5116739467,-64.1689398341,Cno. San Carlos,8900,,Colegio Manuel Estrada
 4863,C4863,,Cno. San Carlos 8700,-31.5095760992,-64.168958671,Cno. San Carlos,8700,,Callejón Arias
@@ -2541,7 +2542,6 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 4936,C4936,,Cno San Carlos 9300,-31.5173780345,-64.1691252986,Cno San Carlos,9300,,
 4937,C4937,,Cno San Carlos,-31.5189249539,-64.1691102077,Cno San Carlos,,,Canal Maestro
 4938,C4938,,Cno San Carlos 9700,-31.5233661324,-64.1687229681,Cno San Carlos,9700,,
-4939,C4939,,Cno San Carlos 9900,-31.5250556933,-64.1686453193,Cno San Carlos,9900,,
 4940,C4940,,Cno San Carlos,-31.5286980633,-64.1687980794,Cno San Carlos,,,Callejón Aguas Cordob.
 4941,C4941,,Alonzo de Ubeda 455,-31.3613326855,-64.1964930093,Alonzo de Ubeda,455,,Pablo Guzmán
 4942,C4942,,Alonzo de Ubeda 317,-31.3602881579,-64.1975677355,Alonzo de Ubeda,317,,
@@ -3738,6 +3738,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 7319,C7319,,Av. Santa Ana 3288,-31.4130430556,-64.2281227446,Av. Santa Ana 3288,,,Esq. Av. Los Platanos
 7320,C7320,,Av. Santa Ana 3662,-31.4123647227,-64.2314190104,Av. Santa Ana 3662,,,Entre Felix Paz Y Francisco Gurruchaga
 7321,C7321,,Av. Santa Ana 3892,-31.4116109341,-64.2353743669,Av. Santa Ana 3892,,,Entre Diego Cala Y Av. Agustin Roque Arias
+7978,C7978,,,-31.4114652532144,-64.1988514541474,Mendoza 020,,,Esq Dean  Funes
 7322,C7322,,Av. Santa Ana 4082,-31.4114973178,-64.2378580285,Av. Santa Ana 4082,,,Esq. Guardia Nacional
 7323,C7323,,Av. Santa Ana 4350,-31.4117147189,-64.2415667968,Av. Santa Ana 4350,,,Entre Juan Garcia Martinez Y Adolfo Davila (Fte. Vea)
 7324,C7324,,Av. Santa Ana 4420,-31.4116164614,-64.2434633245,Av. Santa Ana 4420,,,Esq. Entre Adolfo Davila Y Alfonso Durand
@@ -4387,7 +4388,6 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 7975,C7975,,Av. Santa Fe 883,-31.402172813,-64.198136377,Av. Santa Fe 883,,,Esq. M Benitez
 7976,C7976,,Av. Santa Fe 425,-31.4058299228,-64.1997860284,Av. Santa Fe 425,,,Esq. La Rioja
 7977,C7977,,Av. Colon 1100,-31.4092346343,-64.1983789023,Av. Colon 1100,,,Esq Mendoza
-7978,C7978,,,-31.4114652532144,-64.1988514541474,Mendoza 020,,,Esq Dean  Funes
 7979,C7979,,Sol De Mayo 456,-31.4138326759,-64.2096265491,Sol De Mayo 456,,,Esq  Casablanca
 7980,C7980,,Sol De Mayo,-31.4153043329,-64.2100647185,Sol De Mayo,,,Esq Montevideo
 7981,C7981,,Sol De Mayo 750,-31.4182978601,-64.2108905797,Sol De Mayo 750,,,Esq B. Genta
