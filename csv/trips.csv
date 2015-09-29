@@ -1,149 +1,149 @@
 trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,card_code,active
-33,50,0,Ciudad Universitaria,,1,33,,False
-34,57,0,Ciudad Universitaria,,1,34,,False
-36,53,0,Playa E. de Feriar,,1,36,,False
-38,71,0,Villa Angelelli,,0,38,,False
-39,60,0,Lasalle,,0,39,,False
-43,51,0,La Floresta,,1,43,,False
-45,33,0,Villa Libertador,,0,45,,False
-46,60,0,Amp. Ferreyra,,1,46,,False
-47,56,0,Villa Urquiza,,0,47,,False
-48,35,0,Sentido Antihorario,,0,48,,False
-50,65,0,Villa Esquiú,,1,50,,False
-51,58,0,Coronel Olmedo,,1,51,,False
-53,41,0,Patricios,,1,53,,False
-54,52,0,Don Bosco,,0,54,,False
-60,69,0,Rincón Bonito,,1,60,,False
-62,71,0,Colonia Los Pinos,,1,62,,False
-63,46,0,René Favaloro,,0,63,,False
-65,61,0,CPC Argüello,,0,65,,False
-66,64,0,Liceo 3 Secc.,,0,66,,False
-67,40,0,Ciudad Universitaria,,0,67,,False
-68,55,0,Valle Escondido,,1,68,,False
-69,69,0,Ciudad Universitaria,,0,69,,False
-71,33,0,Gral. Mosconi,,1,71,,False
-73,43,0,Sentido Antihorario,,0,73,,False
-75,34,0,Sentido Horario,,0,75,,False
-76,47,0,Yapeyú,,1,76,,False
-80,51,0,Área Central,,0,80,,False
-81,50,0,Escuela de Aviación,,0,81,,False
-82,59,0,Coronel Olmedo,,1,82,,False
-83,55,0,Villa Boedo,,0,83,,False
-86,76,0,San Vicente,,0,86,,False
-87,54,0,Colonia Lola,,0,87,,False
-88,40,0,Villa Retiro,,1,88,,False
-89,37,0,Cabildo,,0,89,,False
-91,66,0,Sacchi,,1,91,,False
-92,41,0,Estación Flores,,0,92,,False
-93,70,0,Cerveceros,,1,93,,False
-96,72,0,Parque Horizonte,,0,96,,False
-103,37,0,Gral. Mosconi,,1,103,,False
-104,48,0,Residencial San Roque,,0,104,,False
-106,39,0,Villa Retiro,,1,106,,False
-107,72,0,CPC Rancagua,,1,107,,False
-108,53,0,Maldonado,,0,108,,False
-110,30,0,Gral. Mosconi,,1,110,,False
-111,10,0,Alto Hermoso,,0,111,,False
-112,73,0,Ciudad de las Artes,,0,112,,False
-113,21,0,Parque Futura,,1,113,,False
-114,74,0,Mariano Fragueiro,,1,114,,False
-115,56,0,Colonia Lola,,1,115,,False
-116,28,0,20 de Junio,,1,116,,False
-117,38,0,Área Central,,0,117,,False
-118,57,0,Villa Belgrano,,0,118,,False
-119,14,0,Ampliación San Pablo,,0,119,,False
-120,64,0,Retiro,,1,120,,False
-121,6,0,Villa Allende Parque,,1,121,,False
-122,12,0,Cno. San Carlos Km 4.5,,1,122,,False
-123,3,0,Ituzaingó,,1,123,,False
-124,29,0,Ciudad Universitaria,,0,124,,False
-125,66,0,Pque. República,,0,125,,False
-126,9,0,Ciudad Universitaria,,0,126,,False
-127,32,0,Villa Unión,,0,127,,False
-128,65,0,Yofre Norte,,0,128,,False
-129,1,0,Ituzaingó,,1,129,,False
-130,38,0,Cabildo,,1,130,,False
-131,59,0,Área Central (por el Quebracho),,0,131,,False
-132,67,0,CPC Empalme,,1,132,,False
-133,2,0,Villa Allende Parque,,1,133,,False
-134,44,0,Yapeyú,,1,134,,False
-135,74,0,Plaza de las Américas,,0,135,,False
-136,7,0,25 de Mayo,,0,136,,False
-137,39,0,Polo Sanitario,,0,137,,False
-138,52,0,Miralta,,1,138,,False
-139,76,0,Ameghino,,1,139,,False
-140,23,0,Villa Ballester,,0,140,,False
-141,24,0,Santa Isabel 1 Secc.,,1,141,,False
-142,68,0,Ituzaingó,,1,142,,False
-143,19,0,Libertad III,,0,143,,False
-144,63,0,Alta Córdoba,,0,144,,False
-145,44,0,SMATA,,0,145,,False
-146,49,0,Ciudad Universitaria,,1,146,,False
-147,61,0,J.I.Díaz 5 Secc.,,1,147,,False
-148,4,0,Ciudad Universitaria,,1,148,,False
-2,26,0,Los Paraísos,,0,2,,False
-4,13,0,Marqués de Sobremonte,,0,4,,False
-9,13,0,Artigas,,1,9,,False
-11,23,0,Santa Isabel 2 Secc.,,1,11,,False
-12,31,0,20 de Junio,,1,12,,False
-15,31,0,Polo Sanitario,,0,15,,False
-17,9,0,Saldán,,1,17,,False
-19,15,0,Inaudi,,0,19,,False
-21,30,0,Parque República,,0,21,,False
-22,24,0,Área Central,,0,22,,False
-26,8,0,Ituzaingó,,0,26,,False
-35,14,0,Ampliación Poeta Lugones,,1,35,,False
-37,17,0,Los Boulevares,,0,37,,False
-40,20,0,Bower,,1,40,,False
-41,5,0,Ampliación 1 de Mayo,,0,41,,False
-42,15,0,Marqués de Sobremonte,,1,42,,False
-44,29,0,Guiñazú,,1,44,,False
-49,28,0,Pque. Liceo,,0,49,,False
-52,21,0,J.Luis Cabrera,,0,52,,False
-55,10,0,Ciudad Universitaria,,1,55,,False
-56,2,0,Empalme,,0,56,,False
-57,7,0,Ciudad Universitaria,,1,57,,False
-58,16,0,Cno. San Carlos Km 4.5,,1,58,,False
-59,5,0,Policial,,1,59,,False
-61,17,0,Artigas,,1,61,,False
-64,18,0,Ampliación Cerveceros,,1,64,,False
-70,8,0,16 de Noviembre,,1,70,,False
-72,11,0,Santa Cecilia,,0,72,,False
-74,12,0,Los Boulevares,,0,74,,False
-77,1,0,Lasalle,,0,77,,False
-78,18,0,Sol Naciente,,0,78,,False
-79,25,0,Universidad Cátolica,,1,79,,False
-84,4,0,Centro de Almaceneros,,0,84,,False
-85,6,0,Polo Sanitario,,0,85,,False
-90,22,0,Santa Isabel 1 Secc.,,1,90,,False
-94,16,0,Aeropuerto,,0,94,,False
-95,22,0,Polo Sanitario,,0,95,,False
-97,19,0,Marqués de Sobremonte,,1,97,,False
-98,26,0,Cabildo,,1,98,,False
-99,27,0,J.Newbery,,0,99,,False
-100,27,0,Villa Libertador,,1,100,,False
-101,3,0,16 de Noviembre,,0,101,,False
-102,11,0,Cerveceros,,1,102,,False
-105,25,0,Área Central,,0,105,,False
-109,20,0,Rivadavia,,0,109,,False
-1,48,0,Patricios Oeste,,1,1,,False
-3,46,0,Patricios Norte,,1,3,,False
-5,45,0,Residencial San Roque,,0,5,,False
-6,70,0,Aeropuerto-Univ. Siglo21,,0,6,,False
-7,36,0,Villa Angelelli,,1,7,,False
-8,62,0,Las Lilas,,1,8,,False
-10,73,0,Cerro de las Rosas,,1,10,,False
-13,36,0,Área Central,,0,13,,False
-14,58,0,Cerro de las Rosas,,0,14,,False
-16,68,0,Arco de Córdoba,,0,16,,False
-18,62,0,Cerro de las Rosas,,0,18,,False
-20,45,0,Mercado Frutihortícola,,1,20,,False
-23,54,0,Playa E. de Feriar,,1,23,,False
-24,75,0,Alto Alberdi,,1,24,,False
-25,63,0,Marqués de Sobremonte,,1,25,,False
-27,32,0,M.T. de Alvear,,1,27,,False
-28,49,0,Arenales,,0,28,,False
-29,75,0,Pueyrredón,,0,29,,False
-30,67,0,CPC Centro América-Hospital Infantil,,0,30,,False
-31,42,0,Sentido Horario,,0,31,,False
-32,47,0,Matienzo,,0,32,,False
+33,50,0,Ciudad Universitaria,,1,33,,True
+34,57,0,Ciudad Universitaria,,1,34,,True
+36,53,0,Playa E. de Feriar,,1,36,,True
+38,71,0,Villa Angelelli,,0,38,,True
+39,60,0,Lasalle,,0,39,,True
+43,51,0,La Floresta,,1,43,,True
+45,33,0,Villa Libertador,,0,45,,True
+46,60,0,Amp. Ferreyra,,1,46,,True
+47,56,0,Villa Urquiza,,0,47,,True
+48,35,0,Sentido Antihorario,,0,48,,True
+50,65,0,Villa Esquiú,,1,50,,True
+51,58,0,Coronel Olmedo,,1,51,,True
+53,41,0,Patricios,,1,53,,True
+54,52,0,Don Bosco,,0,54,,True
+60,69,0,Rincón Bonito,,1,60,,True
+62,71,0,Colonia Los Pinos,,1,62,,True
+63,46,0,René Favaloro,,0,63,,True
+65,61,0,CPC Argüello,,0,65,,True
+66,64,0,Liceo 3 Secc.,,0,66,,True
+67,40,0,Ciudad Universitaria,,0,67,,True
+68,55,0,Valle Escondido,,1,68,,True
+69,69,0,Ciudad Universitaria,,0,69,,True
+71,33,0,Gral. Mosconi,,1,71,,True
+73,43,0,Sentido Antihorario,,0,73,,True
+75,34,0,Sentido Horario,,0,75,,True
+76,47,0,Yapeyú,,1,76,,True
+80,51,0,Área Central,,0,80,,True
+81,50,0,Escuela de Aviación,,0,81,,True
+82,59,0,Coronel Olmedo,,1,82,,True
+83,55,0,Villa Boedo,,0,83,,True
+86,76,0,San Vicente,,0,86,,True
+87,54,0,Colonia Lola,,0,87,,True
+88,40,0,Villa Retiro,,1,88,,True
+89,37,0,Cabildo,,0,89,,True
+91,66,0,Sacchi,,1,91,,True
+92,41,0,Estación Flores,,0,92,,True
+93,70,0,Cerveceros,,1,93,,True
+96,72,0,Parque Horizonte,,0,96,,True
+103,37,0,Gral. Mosconi,,1,103,,True
+104,48,0,Residencial San Roque,,0,104,,True
+106,39,0,Villa Retiro,,1,106,,True
+107,72,0,CPC Rancagua,,1,107,,True
+108,53,0,Maldonado,,0,108,,True
+110,30,0,Gral. Mosconi,,1,110,,True
+111,10,0,Alto Hermoso,,0,111,,True
+112,73,0,Ciudad de las Artes,,0,112,,True
+113,21,0,Parque Futura,,1,113,,True
+114,74,0,Mariano Fragueiro,,1,114,,True
+115,56,0,Colonia Lola,,1,115,,True
+116,28,0,20 de Junio,,1,116,,True
+117,38,0,Área Central,,0,117,,True
+118,57,0,Villa Belgrano,,0,118,,True
+119,14,0,Ampliación San Pablo,,0,119,,True
+120,64,0,Retiro,,1,120,,True
+121,6,0,Villa Allende Parque,,1,121,,True
+122,12,0,Cno. San Carlos Km 4.5,,1,122,,True
+123,3,0,Ituzaingó,,1,123,,True
+124,29,0,Ciudad Universitaria,,0,124,,True
+125,66,0,Pque. República,,0,125,,True
+126,9,0,Ciudad Universitaria,,0,126,,True
+127,32,0,Villa Unión,,0,127,,True
+128,65,0,Yofre Norte,,0,128,,True
+129,1,0,Ituzaingó,,1,129,,True
+130,38,0,Cabildo,,1,130,,True
+131,59,0,Área Central (por el Quebracho),,0,131,,True
+132,67,0,CPC Empalme,,1,132,,True
+133,2,0,Villa Allende Parque,,1,133,,True
+134,44,0,Yapeyú,,1,134,,True
+135,74,0,Plaza de las Américas,,0,135,,True
+136,7,0,25 de Mayo,,0,136,,True
+137,39,0,Polo Sanitario,,0,137,,True
+138,52,0,Miralta,,1,138,,True
+139,76,0,Ameghino,,1,139,,True
+140,23,0,Villa Ballester,,0,140,,True
+141,24,0,Santa Isabel 1 Secc.,,1,141,,True
+142,68,0,Ituzaingó,,1,142,,True
+143,19,0,Libertad III,,0,143,,True
+144,63,0,Alta Córdoba,,0,144,,True
+145,44,0,SMATA,,0,145,,True
+146,49,0,Ciudad Universitaria,,1,146,,True
+147,61,0,J.I.Díaz 5 Secc.,,1,147,,True
+148,4,0,Ciudad Universitaria,,1,148,,True
+2,26,0,Los Paraísos,,0,2,,True
+4,13,0,Marqués de Sobremonte,,0,4,,True
+9,13,0,Artigas,,1,9,,True
+11,23,0,Santa Isabel 2 Secc.,,1,11,,True
+12,31,0,20 de Junio,,1,12,,True
+15,31,0,Polo Sanitario,,0,15,,True
+17,9,0,Saldán,,1,17,,True
+19,15,0,Inaudi,,0,19,,True
+21,30,0,Parque República,,0,21,,True
+22,24,0,Área Central,,0,22,,True
+26,8,0,Ituzaingó,,0,26,,True
+35,14,0,Ampliación Poeta Lugones,,1,35,,True
+37,17,0,Los Boulevares,,0,37,,True
+40,20,0,Bower,,1,40,,True
+41,5,0,Ampliación 1 de Mayo,,0,41,,True
+42,15,0,Marqués de Sobremonte,,1,42,,True
+44,29,0,Guiñazú,,1,44,,True
+49,28,0,Pque. Liceo,,0,49,,True
+52,21,0,J.Luis Cabrera,,0,52,,True
+55,10,0,Ciudad Universitaria,,1,55,,True
+56,2,0,Empalme,,0,56,,True
+57,7,0,Ciudad Universitaria,,1,57,,True
+58,16,0,Cno. San Carlos Km 4.5,,1,58,,True
+59,5,0,Policial,,1,59,,True
+61,17,0,Artigas,,1,61,,True
+64,18,0,Ampliación Cerveceros,,1,64,,True
+70,8,0,16 de Noviembre,,1,70,,True
+72,11,0,Santa Cecilia,,0,72,,True
+74,12,0,Los Boulevares,,0,74,,True
+77,1,0,Lasalle,,0,77,,True
+78,18,0,Sol Naciente,,0,78,,True
+79,25,0,Universidad Cátolica,,1,79,,True
+84,4,0,Centro de Almaceneros,,0,84,,True
+85,6,0,Polo Sanitario,,0,85,,True
+90,22,0,Santa Isabel 1 Secc.,,1,90,,True
+94,16,0,Aeropuerto,,0,94,,True
+95,22,0,Polo Sanitario,,0,95,,True
+97,19,0,Marqués de Sobremonte,,1,97,,True
+98,26,0,Cabildo,,1,98,,True
+99,27,0,J.Newbery,,0,99,,True
+100,27,0,Villa Libertador,,1,100,,True
+101,3,0,16 de Noviembre,,0,101,,True
+102,11,0,Cerveceros,,1,102,,True
+105,25,0,Área Central,,0,105,,True
+109,20,0,Rivadavia,,0,109,,True
+1,48,0,Patricios Oeste,,1,1,,True
+3,46,0,Patricios Norte,,1,3,,True
+5,45,0,Residencial San Roque,,0,5,,True
+6,70,0,Aeropuerto-Univ. Siglo21,,0,6,,True
+7,36,0,Villa Angelelli,,1,7,,True
+8,62,0,Las Lilas,,1,8,,True
+10,73,0,Cerro de las Rosas,,1,10,,True
+13,36,0,Área Central,,0,13,,True
+14,58,0,Cerro de las Rosas,,0,14,,True
+16,68,0,Arco de Córdoba,,0,16,,True
+18,62,0,Cerro de las Rosas,,0,18,,True
+20,45,0,Mercado Frutihortícola,,1,20,,True
+23,54,0,Playa E. de Feriar,,1,23,,True
+24,75,0,Alto Alberdi,,1,24,,True
+25,63,0,Marqués de Sobremonte,,1,25,,True
+27,32,0,M.T. de Alvear,,1,27,,True
+28,49,0,Arenales,,0,28,,True
+29,75,0,Pueyrredón,,0,29,,True
+30,67,0,CPC Centro América-Hospital Infantil,,0,30,,True
+31,42,0,Sentido Horario,,0,31,,True
+32,47,0,Matienzo,,0,32,,True

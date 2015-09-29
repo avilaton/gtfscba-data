@@ -189,6 +189,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 279,C0279,,Celestino Vidal 2717,-31.37796,-64.1399,Celestino Vidal,2717,Juan Quesada y Capdevila,
 280,C0280,,Capdevila 2529,-31.37817,-64.13675,Capdevila,2529,Heroes de Vilcapujio y Wilson,
 281,C0281,,Altolaguirre 2750,-31.37775,-64.13407,Altolaguirre,2750,Fuenzalida Meneses y Rafael de Palencia,
+4240,C4240,,Carlos Paz 3784,-31.4574329207,-64.1627100806,Carlos Paz,3784,,
 282,C0282,,Altolaguirre 2509,-31.38009,-64.13408,Altolaguirre,2509,Vilchez y Montoya y Leon y Pizarro,
 283,C0283,,Altolaguirre 2312,-31.38197,-64.13408,Altolaguirre,2312,Tadeo Davila y Jose de Medeiros,
 284,C0284,,Altolaguirre 2153,-31.38342,-64.1341,Altolaguirre,2153,Tomas de Archondo y Villacorta y Oca¤a,
@@ -513,6 +514,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 711,C0711,,Belgrano 147,-31.41659,-64.18897,Belgrano,147,Caseros y 27 de Abril,
 716,C0716,,24 de Setiembre 772,-31.4156,-64.17271,24 de Setiembre,772,Ocampo y Ovidio Lagos,
 717,C0717,,24 de Setiembre 980,-31.414918,-64.170141,24 de Setiembre,980,Esquiu y Felix Frias,
+4241,C4241,,Carlos Paz 3892,-31.458388318,-64.1627118105,Carlos Paz,3892,,
 718,C0718,,Felix Frias 105,-31.41603,-64.16914,Felix Frias,105,24 de Setiembre y 25 de Mayo,
 719,C0719,,La Plata 496,-31.41882,-64.16933,La Plata,496,Leonor de Tejeda y Americo Vespucio,
 720,C0720,,Zuviria 1086,-31.42009,-64.16918,Zuviria,1086,La Plata y San Nicolas,
@@ -773,6 +775,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 1139,C1139,,Fuerza Aerea 5200,-31.43335,-64.25648,Fuerza Aerea,5200,Frente Salida Escuela de Suboficiales,
 1140,C1140,,Fuerza Aerea 4927,-31.433,-64.2507,Fuerza Aerea,4927,Circunvalacion y Aviador Locatelli,
 1141,C1141,,Fuerza Aerea 4700,-31.43283,-64.2484,Fuerza Aerea,4700,Aviador Mira y Aviador Petirossi,
+4415,C4415,,Baradero 2931,-31.4433027095,-64.1575525259,Baradero,2931,,Morón
 1142,C1142,,Fuerza Aerea 4545,-31.43272,-64.2467,Fuerza Aerea,4545,Aviador Kingsley y Aviador Abel,
 1144,C1144,,Agustin Roque Arias 1808,-31.43063,-64.24215,Agustin Roque Arias,1808,Aviador Zanni y Camilo Isleño,
 1145,C1145,,Agustin Roque Arias 1715,-31.4288,-64.24166,Agustin Roque Arias,1715,Gonzalez Albarracin y Felix de Zuñiga,
@@ -899,6 +902,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 1446,C1446,,Chacabuco 257,-31.42053,-64.18145,Chacabuco,257,Corrientes y Entre Rios,
 1455,C1455,,Velez Sarsfield 230,-31.41756,-64.1878,Velez Sarsfield,230,Caseros y Duarte Quiros,
 1476,C1476,,Sabattini 3154,-31.43338,-64.14566,Sabattini,3154,Jose Ignacio Gorriti y Hiper Libertad,
+4416,C4416,,Tandil 2845,-31.4425674705,-64.1594402186,Tandil,2845,,
 1481,C1481,,Sabattini 4390,-31.4359,-64.13045,Sabattini,4390,Rayo Cortado y Totoralejos,
 1483,C1483,,Sabattini 4850,-31.44035,-64.12754,Sabattini,4850,Fiambala y Calingasta,
 1484,C1484,,Sabattini 5025,-31.44638,-64.12215,Sabattini,5025,Circunvalacion y Croacia,
@@ -1283,6 +1287,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 2364,C2364,,Donato Alvarez 9426,-31.31479167,-64.27574722,Donato Alvarez,9426,Boro y Loncoche,
 2366,C2366,,Arrayan 9133,-31.32031944,-64.27450833,Arrayan,9133,Cauque y Molleyaco,
 2367,C2367,,Molleyaco 7729,-31.32012222,-64.27312778,Molleyaco,7729,Niyeu y Donato Alvarez,
+4417,C4417,,Baradero 2829,-31.4436265941,-64.1602441509,Baradero,2829,,
 2368,C2368,,Cauque 7450,-31.31829,-64.27112,Cauque,7450,Coligue y Chacal,
 2369,C2369,,Cauque 7300,-31.31701,-64.26863,Cauque,7300,Matra y Kawal,
 2370,C2370,,Tabacue 9143,-31.31652,-64.2671,Tabacue,9143,Cauque y Casuati,
@@ -1349,6 +1354,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 2584,C2584,,Molleyaco 8261,-31.32398,-64.28067,Molleyaco,8261,Payen y San Pedro Toyos,
 2585,C2585,,Molleyaco 8338,-31.32451,-64.28162,Molleyaco,8338,Payen y San Pedro Toyos,
 2586,C2586,,San Pedro Toyos 8400,-31.32499,-64.28261,San Pedro Toyos,8400,Molleyaco y Piedra Labrada,
+4418,C4418,,Baradero 2621,-31.4436283218,-64.1623488367,Baradero,2621,,
 2587,C2587,,Piedra Labrada 8337,-31.32552,-64.28146,Piedra Labrada,8337,San Pedro Toyo y Cashuati,
 2588,C2588,,Piedra Labrada 8266,-31.3256333189,-64.27968,Piedra Labrada,8266,Huayana y Sinchi Roca,
 2589,C2589,,Piedra Labrada 8100,-31.32561,-64.27793,Piedra Labrada,8100,Payen y Yupanqui,
@@ -1412,6 +1418,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 2872,C2872,,"Cumbres de Gaspar, La Carbonada",-31.489865107,-64.0786697374,Cumbres de Gaspar,,La Carbonada,
 2873,C2873,,"Cumbres de Gaspar, La Carbonada",-31.489855107,-64.0810160933,Cumbres de Gaspar,,La Carbonada,
 2874,C2874,,"Cumbres de Gaspar, La Carbonada",-31.4898596815,-64.0834060933,Cumbres de Gaspar,,La Carbonada,
+4419,C4419,,Baradero 2321,-31.4436468585,-64.164425397,Baradero,2321,,Altutina
 2875,C2875,,"Cumbres de Gaspar, La Carbonada",-31.489845107,-64.0862339067,Cumbres de Gaspar,,La Carbonada,
 2876,C2876,,"Cumbres de Gaspar, La Carbonada",-31.4899,-64.08625,Cumbres de Gaspar,,La Carbonada,
 3418,C3418,,Bajada de Piedras,-31.4017575831,-64.1061381019,Bajada de Piedras,,,
@@ -1475,6 +1482,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 3110,C3110,,"Nuestro Hogar 2, Despues de Barrio Zepa",-31.388235,-64.098324,Nuestro Hogar 2,,Despues de Barrio Zepa,
 3115,C3115,,Apostoles entre Jesus maria y Jovita,-31.41594,-64.14663,Apostoles,,Jesus maria y Jovita,
 3119,C3119,,Maestro Vidal 1284,-31.4224832905,-64.2282326442,Maestro Vidal,1284,Verdi y Rogatis,
+4420,C4420,,Baradero 2205,-31.4436729533,-64.1663115907,Baradero,2205,,Taninga
 3120,C3120,,Apostoles entre Jovita y Jesus Maria,-31.41601,-64.146757,Apostoles,,Jovita y Jesus Maria,
 3121,C3121,,Maestro Vidal 1488,-31.4254619986,-64.2289913988,Maestro Vidal,1488,Luis Agote y Hector Paniza,
 3122,C3122,,Maestro Vidal 1678,-31.4283864066,-64.2297589239,Maestro Vidal,1678,Gomez Carrillo y Alberto Williams,
@@ -1664,6 +1672,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 3477,C3477,,Las Toscas entre De Las Cortaderas y De La Pulperia,-31.3664523218,-64.1157091534,Las Toscas,,De Las Cortaderas y De La Pulperia,
 3478,C3478,,De Las Cortaderas entre Al Gateado y Las Toscas,-31.3685883048,-64.1170616786,De Las Cortaderas,,Al Gateado y Las Toscas,
 3479,C3479,,De Las Cortaderas entre Al Gateado y Las Toscas,-31.3687056626,-64.1209686442,De Las Cortaderas,,Al Gateado y Las Toscas,
+4421,C4421,,Baradero 1963,-31.4437113757,-64.1683747335,Baradero,1963,,
 3480,C3480,,Al Gateado entre Capdevilla y De Las Cortaderas,-31.3738254025,-64.1242132209,Al Gateado,,Capdevilla y De Las Cortaderas,
 3481,C3481,,Capdevila entre Circunvalacion y Al Gateado,-31.3759802019,-64.1257518981,Capdevila,,Circunvalacion y Al Gateado,
 4001,C4001,,Armando Sica,-31.4667015505,-64.1598383304,Armando Sica,,,Ferreyra de Roca
@@ -1885,8 +1894,6 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 4237,C4237,,Carlos Paz 3378,-31.4522762608,-64.1631223386,Carlos Paz,3378,,
 4238,C4238,,Carlos Paz 3496,-31.4538950081,-64.1630670396,Carlos Paz,3496,,
 4239,C4239,,Carlos Paz 3705,-31.4561188272,-64.1627678045,Carlos Paz,3705,,
-4240,C4240,,Carlos Paz 3784,-31.4574329207,-64.1627100806,Carlos Paz,3784,,
-4241,C4241,,Carlos Paz 3892,-31.458388318,-64.1627118105,Carlos Paz,3892,,
 4242,C4242,,Celso Barrios 2780,-31.4586211354,-64.1606327037,Celso Barrios,2780,,
 4243,C4243,,Celso Barrios 2158,-31.4586377809,-64.1578362491,Celso Barrios,2158,,
 4244,C4244,,Calle Publica 3800,-31.4599020793,-64.1573510595,Calle Publica,3800,,
@@ -2039,13 +2046,6 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 4412,C4412,,Av Pilar 2837,-31.4442692971,-64.1518108238,Av Pilar,2837,,Tapalque
 4413,C4413,,Baradero 3429,-31.4432624519,-64.1529817118,Baradero,3429,,Castañares
 4414,C4414,,Baradero 3116,-31.4432565917,-64.1555472873,Baradero,3116,,Matanza
-4415,C4415,,Baradero 2931,-31.4433027095,-64.1575525259,Baradero,2931,,Morón
-4416,C4416,,Tandil 2845,-31.4425674705,-64.1594402186,Tandil,2845,,
-4417,C4417,,Baradero 2829,-31.4436265941,-64.1602441509,Baradero,2829,,
-4418,C4418,,Baradero 2621,-31.4436283218,-64.1623488367,Baradero,2621,,
-4419,C4419,,Baradero 2321,-31.4436468585,-64.164425397,Baradero,2321,,Altutina
-4420,C4420,,Baradero 2205,-31.4436729533,-64.1663115907,Baradero,2205,,Taninga
-4421,C4421,,Baradero 1963,-31.4437113757,-64.1683747335,Baradero,1963,,
 4422,C4422,,Merlo 2767,-31.4433485568,-64.1697412293,Merlo,2767,,
 4423,C4423,,Tandil 1711,-31.4428635208,-64.1706882195,Tandil,1711,,
 4424,C4424,,Tandil 1503,-31.4429255988,-64.1724280323,Tandil,1503,,
@@ -3117,6 +3117,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 5532,C5532,,Duarte Quiroz 3845,-31.4051001852,-64.2319079285,Duarte Quiroz,3845,,
 5533,C5533,,Duarte Quiroz 3513,-31.4057839692,-64.22866586,Duarte Quiroz,3513,,
 5534,C5534,,Juan Piñero 61,-31.403372646,-64.22610553,Juan Piñero,61,,
+6163,C6163,,Av Colón 2708,-31.4034957364,-64.2174440977,Av Colón,2708,,
 5535,C5535,,Sabattini 4561,-31.4380981155,-64.1282759373,Sabattini,4561,,Arco de Córdoba
 5536,C5536,,Sabattini 4300,-31.4347600699,-64.1312417002,Sabattini,4300,,Tancacha
 5537,C5537,,Sabattini 4069,-31.4332000578,-64.1335682043,Sabattini,4069,,Atos Pampa
@@ -3264,6 +3265,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 6013,C6013,,Av. Veléz Sarsfield 880,-31.4254957261,-64.191119945,Av. Veléz Sarsfield,880,,
 6014,C6014,,Av Fuerza Aerea Argentina 3459,-31.4319547079,-64.2342313344,Av Fuerza Aerea Argentina,3459,,
 6015,C6015,,Av Fuerza Aerea Argentina 3041,-31.4316474544,-64.2295844605,Av Fuerza Aerea Argentina,3041,,
+6164,C6164,,Av Colón 1649,-31.4071834249,-64.2054859182,Av Colón,1649,,
 6016,C6016,,Av Fuerza Aerea Argentina 2831,-31.431418442,-64.2263652208,Av Fuerza Aerea Argentina,2831,,
 6017,C6017,,Av Fuerza Aerea Argentina 2599,-31.4311527848,-64.2226322881,Av Fuerza Aerea Argentina,2599,,
 6018,C6018,,Av Fuerza Aerea Argentina 2245,-31.4308863806,-64.2189366646,Av Fuerza Aerea Argentina,2245,,
@@ -3412,8 +3414,6 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 6160,C6160,,Avenida Colón 3044,-31.4020795905,-64.22103494,Avenida Colón,3044,,
 6161,C6161,,Avenida Colón 3268,-31.4013104452,-64.2234592741,Avenida Colón,3268,,
 6162,C6162,,Domingo Zipoli 243,-31.400473798,-64.2251297158,Domingo Zipoli,243,,
-6163,C6163,,Av Colón 2708,-31.4034957364,-64.2174440977,Av Colón,2708,,
-6164,C6164,,Av Colón 1649,-31.4071834249,-64.2054859182,Av Colón,1649,,
 6165,C6165,,Av Colón 1369,-31.4082452654,-64.2016408772,Av Colón,1369,,
 6166,C6166,,Av Colón 1041,-31.4095586991,-64.197221593,Av Colón,1041,,
 7000,C7000,,Calle Publica 3 N° 6552,-31.4038017466,-64.2682420776,Calle Publica 3 N° 6552,,,Esq. Rio Yuspe
@@ -3475,6 +3475,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 7056,C7056,,Av. Juan B. Justo 3468,-31.3850842357,-64.1759055001,Av. Juan B. Justo 3468,,,Entre Mauricio Yadarola Y Abad E Illana
 7057,C7057,,Av. Juan B. Justo 3672,-31.3822117239,-64.1759004462,Av. Juan B. Justo 3672,,,Entre Maracaibo Y Santiso Y Moscoso
 7058,C7058,,Av. Juan B. Justo 3840,-31.3786501732,-64.1758589709,Av. Juan B. Justo 3840,,,Entre Alvarez De Las Casa Y Martinez De Tineo
+7179,C7179,,Haya De La Torre S/N,-31.4385038873,-64.1883853929,Haya De La Torre S/N,,,Esq. Enrique Barros
 7059,C7059,,Av. Juan B. Justo 4096,-31.3764827927,-64.1759238484,Av. Juan B. Justo 4096,,,Esq. Cjal Cabiche
 7060,C7060,,Av. Juan B. Justo 4350,-31.3731997143,-64.1759696827,Av. Juan B. Justo 4350,,,Cpc Juan B. Justo
 7061,C7061,,Av. Juan B. Justo 4628,-31.3703793555,-64.1760210958,Av. Juan B. Justo 4628,,,Esq. Ricardo Levene
@@ -3535,6 +3536,7 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 7117,C7117,,Av. Duarte Quiros 670,-31.4168596859,-64.194421141,Av. Duarte Quiros 670,,,Esq. Corro
 7118,C7118,,Av. Duarte Quiros 950,-31.4155548157,-64.1984005445,Av. Duarte Quiros 950,,,Entre San Jose De Calazans Y M. Moreno
 7119,C7119,,Av. Duarte Quiros 1182,-31.4145815033,-64.201129646,Av. Duarte Quiros 1182,,,Esq. Paraguay
+7180,C7180,,Haya De La Torre S/N,-31.4373928505,-64.1919000298,Haya De La Torre S/N,,,Esq. Medina Allende
 7120,C7120,,Av. Duarte Quiros 1400,-31.4130048104,-64.2047594101,Av. Duarte Quiros 1400,,,Fte. Nuevocentro Shopping
 7121,C7121,,Av. Duarte Quiros 1684,-31.4119545966,-64.2080187328,Av. Duarte Quiros 1684,,,Esq. Jose Miguel Urrutia
 7122,C7122,,Av. Duarte Quiros 1984,-31.410983363,-64.2111160922,Av. Duarte Quiros 1984,,,Esq. Ocaña (Clinica Colombo)
@@ -3594,8 +3596,6 @@ stop_id,stop_code,stop_desc,stop_name,stop_lat,stop_lon,stop_calle,stop_numero,s
 7176,C7176,,Av. Hipolito Yrigoyen 800,-31.4318010758,-64.184259622,Av. Hipolito Yrigoyen 800,,,Fte. Parque De Las Tejas
 7177,C7177,,Av. Ciudad De Valparaiso S/N,-31.4353348075,-64.1853621696,Av. Ciudad De Valparaiso S/N,,,Fte. Facultad De Ciencias Economicas
 7178,C7178,,Haya De La Torre S/N,-31.4388461542,-64.1869929851,Haya De La Torre S/N,,,Fte. Escuela De Enfermeria (Ciudad Universitaria)
-7179,C7179,,Haya De La Torre S/N,-31.4385038873,-64.1883853929,Haya De La Torre S/N,,,Esq. Enrique Barros
-7180,C7180,,Haya De La Torre S/N,-31.4373928505,-64.1919000298,Haya De La Torre S/N,,,Esq. Medina Allende
 7181,C7181,,Maestro Marcelo Lopez S/N,-31.4398201436,-64.1927722856,Maestro Marcelo Lopez S/N,,,Fte. Inst. Helen Keller
 7182,C7182,,Maestro Marcelo Lopez S/N,-31.4421490507,-64.1939099698,Maestro Marcelo Lopez S/N,,,Fte. Ministerio De Desarrollo Social
 7183,C7183,,Maestro Marcelo Lopez S/N,-31.441905083,-64.1935887234,Maestro Marcelo Lopez S/N,,,Fte. Utn
